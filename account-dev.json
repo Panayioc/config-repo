@@ -1,0 +1,9 @@
+{
+  "bar": "spam",
+  "foo": "from foo development",
+  "democonfigclient.message": "hello from dev profile",
+  "addresses": {
+    "maxNumber": 4,
+    "sorting": "asc"
+  }
+}
